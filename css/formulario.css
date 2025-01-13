@@ -1,0 +1,31 @@
+#cadastro{
+    margin-top: -330px;
+    margin-left: 340px;
+    color:black;
+
+}
+body{
+background: linear-gradient(to right,#868383,#ccc);
+}
+
+input[type="submit"]{
+    background:linear-gradient(rgb(194, 189, 189),black);
+    color:white;
+    border-radius: 8px;
+    font-weight: bold;
+    width:100px;
+    height:30px;
+    cursor:pointer;
+}
+
+fieldset{
+    padding-left:85px;
+    margin-left:10px;
+    margin-right: 510px;
+}
+
+legend{
+    font-size: 18px;
+    color:rgb(17, 17, 17);
+    font-weight: bold;
+}

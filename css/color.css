@@ -1,0 +1,61 @@
+
+.foo {
+  color:rgb(245, 248, 245);
+font-weight: bold;
+  width: 100px;
+  height: 30px;
+  margin-bottom: 2px;
+  float:left;
+  margin-left:30px;
+  margin-right: 4px;
+  padding-right: 41px;
+  text-align: center;
+  padding-bottom: 20px;
+  border: 1px solid rgba(0, 0, 0, .1);
+  border-radius: 10px;
+}
+.controle-view{
+  color:white;
+  font-weight:bold;
+  width:1117px;
+  margin-top:-3px;
+  margin-left:221px;
+  margin-bottom:-20px;
+
+}
+.situacao-ativo{color:rgb(8, 84, 224);font-weight: bold;}
+.situacao-inativo{color:rgb(243, 16, 16);font-weight: bold;}
+
+.controle{text-align: center;}
+.estado-com-troca      {background: #0649c5}
+.estado-sem-troca      {background: #f4282b}
+.estado-bonificado     {background: #b2c204}
+.estado-desabilitado   {background: #6f706f}
+.estado-nao-encontrado {background: #61396d}
+
+
+.view-index{color:white;font-weight:bold;width:1117px;margin-top:-23px;margin-left:221px;margin-bottom:0px;background:#2c3034; padding-top: 10px;padding-bottom: 10px;}
+pre{font-size:16px;font-family:Arial, Helvetica, sans-serif;margin-bottom: 0px;padding-bottom: 2px;}
+
+.VIEW-Lista-Fornecedor{color:white;font-weight:bold;width:1117px;margin-top:-3px;margin-left:221px;margin-bottom:0px;background:#2c3034; padding-top: 10px;padding-bottom: 10px;}
+pre{font-size:16px;font-family:Arial, Helvetica, sans-serif;margin-bottom: 0px;padding-bottom: 2px;}
+
+
+.blue {
+  background: #0649c5;
+  padding-right:10px;
+}
+
+.red {
+  background: #bd0306;
+  padding-right:10px;
+}
+
+.yellow {
+  background:rgb(219, 187, 4);
+  padding-right: 10px;
+}
+.cinza{
+ background: #6f706f;
+ padding-right:10px;
+}
